@@ -34,8 +34,5 @@ services:
     networks:
       - electron
 
-volumes:
-  warehouse:
-
 networks:
   electron:
